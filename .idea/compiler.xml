@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mars_config_center" />
+        <module name="mars_register_center" />
+        <module name="mars_zuul" />
       </profile>
     </annotationProcessing>
   </component>

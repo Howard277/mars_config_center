@@ -2,5 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mars_register_center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mars_zuul" charset="UTF-8" />
   </component>
 </project>
