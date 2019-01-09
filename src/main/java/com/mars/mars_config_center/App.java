@@ -1,4 +1,4 @@
-package com.mars;
+package com.mars.mars_config_center;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
